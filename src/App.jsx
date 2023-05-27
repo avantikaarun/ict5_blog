@@ -1,9 +1,8 @@
-import React from 'react'
-import Nav1 from './units/Nav1';
-import Home from './pages/Home';
-import AddBlog from './pages/Addblog'
-import { Routes, Route } from "react-router-dom"
-
+import React from "react";
+import Nav1 from "./units/Nav1";
+import Home from "./pages/Home";
+import AddBlog from "./pages/Addblog";
+import { Routes, Route } from "react-router-dom";
 
 export default function App() {
   return (
@@ -14,5 +13,5 @@ export default function App() {
         <Route path="/AddBlog.jsx" element={<AddBlog />} />
       </Routes>
     </div>
-  )
+  );
 }
