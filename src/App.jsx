@@ -37,14 +37,14 @@ export default function App() {
       </Navbar>
       <Container>
         <Form>
-          
+
         </Form>
         <br />
 
         <Row>
           <br />
           <h1 className="text-center mb-3">BLOGS</h1>
-          <Card style={{ width: '18rem' }}>
+          <Card style={{ width: '23rem' }}>
             <Card.Img
               variant="top"
               src="https://raisingsimple.com/wp-content/uploads/2019/11/anita-austvika-zEKvzPonptU-unsplash-400x600.jpg"
@@ -54,7 +54,7 @@ export default function App() {
               <Button variant="primary">VISIT</Button>
             </Card.Body>
           </Card>
-          <Card style={{ width: '18rem' }}>
+          <Card style={{ width: '23rem' }}>
             <Card.Img
               variant="top"
               src="https://raisingsimple.com/wp-content/uploads/2019/10/IMG_0039-400x600.jpg"
@@ -64,7 +64,7 @@ export default function App() {
               <Button variant="primary">VISIT</Button>
             </Card.Body>
           </Card>
-          <Card style={{ width: '18rem' }}>
+          <Card style={{ width: '23rem' }}>
             <Card.Img
               variant="top"
               src="https://raisingsimple.com/wp-content/uploads/2019/04/sofy-m-halftoneco-1388841-unsplash-400x600.jpg"
@@ -74,7 +74,7 @@ export default function App() {
               <Button variant="primary">VISIT</Button>
             </Card.Body>
           </Card>
-          <Card style={{ width: '18rem' }}>
+          <Card style={{ width: '23rem' }}>
             <Card.Img
               variant="top"
               src="https://raisingsimple.com/wp-content/uploads/2020/09/mb1-2-400x600.jpg"
